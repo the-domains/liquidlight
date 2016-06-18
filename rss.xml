@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LiquidLight]]></title>
         <description><![CDATA[LiquidLight]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/liquidlight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 13:25:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 18 Jun 2016 13:31:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/liquidlight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>My name is Brett Reimers. By profession an aquatic ecologist, in my own time a nature photographer based in Durban. I have been blessed to have travelled fairly widely in my work and private time. I enjoy capturing stills of moments in time. This I do for fun and to fund my camera equipment fund which is ever hungry. I shoot most of pics on my trusty Canon 70D (which I adore). I really hope you like my artwork, and I look forward to speaking with you.</p>]]></description>
+            <link>https://thegrid.ai/liquidlight/my-name-is-brett-reimers-by-profession-an-aquatic-ecologist/index.html</link>
+            <guid isPermaLink="false">d20f1127-7434-42ef-818c-dab0c570a5c8</guid>
+            <pubDate>Sat, 18 Jun 2016 13:31:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a site designed to showcase my photography. I am selling prints of all photographs taken by myself. These are digitally signed prints. I am selling only limited numbers of each. Each print will sport the series and edition number. Prints are available digitally, or in hard copy. There are a variety of courier options that are available and are for the customers account.</p>]]></description>
-            <link>undefinedthis-is-a-site-designed-to-showcase-my-photography-i-am-sel/index.html</link>
+            <link>https://thegrid.ai/liquidlight/this-is-a-site-designed-to-showcase-my-photography-i-am-sel/index.html</link>
             <guid isPermaLink="false">2537c1ae-ad01-4882-bcdf-12963e67d8e1</guid>
             <pubDate>Sat, 18 Jun 2016 13:25:49 GMT</pubDate>
         </item>
